@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFarhanApp</string>
+    <string name="my_meeting">MY CONTACT</string>
+    <string name="activity_name">Nama Kegiatan</string>
+    <string name="waktu_jam">Jam Kegiatan</string>
+    <string name="join_meeting">Join Call</string>
+    <string name="new_meeting">New Contact</string>
+    <string name="about">about</string>
+</resources>
